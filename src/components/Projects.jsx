@@ -19,6 +19,12 @@ export const projects = [
     image: "projects/urbanic.png",
     description: "Clone of a women fashion website using React.js",
   },
+   {
+    title: "weather-bot",
+    url: "https://weather-bot-navy.vercel.app/dashboard",
+    image: "projects/weather-bot.png",
+    description: "A telegram bot to get wether updates along with admin pannel",
+  },
   {
     title: "Spin-It",
     url: "https://astha114.github.io/Spin/",
