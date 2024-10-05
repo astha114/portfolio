@@ -9,7 +9,7 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "GoFood",
-    url: "https://adventurous-swimsuit-bull.cyclic.app/",
+    url: "https://foodapp-1z0z.onrender.com",
     image: "projects/GoFood.png",
     description: "A food ordering app using React.js, Express and MongoDB",
   },
